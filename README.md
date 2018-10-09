@@ -2,6 +2,8 @@
 A directory of my main programs that I have written
 
 # I am currently in the process of transferring old projects of mine to this repository. Apologies for how bare the repository is in the meantime.
+You can expect it to feature a more complete portfolio by October 12, 2018
+
 All source code contained within this git repostitory is entirely my own work. 
     However, it may have been inspired by others and I have received help from 
     others on much of my work.
