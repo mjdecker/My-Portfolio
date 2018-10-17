@@ -18,6 +18,6 @@ This git repository was created with the intention of exhibiting my work and to 
     This code is NOT published with the intent of allowing future students to copy.
 
 If you like the look of the code within my repository, and are a recruitor for a company, please 
-	take a look at the For-Recruitors folder in the repository. 
+	take a look at the For-Recruiters folder in the repository. 
 
 If you need to contact the developer of this code, email samteague2016@gmail.com
