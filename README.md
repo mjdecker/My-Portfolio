@@ -8,9 +8,16 @@ All source code contained within this git repostitory is entirely my own work.
 Each project is contained within a subdirectory and has its own README describing 
     it does. 
 All code within this git repository may be reused by others without credit or 
-    attribution. All source code within this git repository may be considered open source.
+    attribution. All source code within this git repository may be considered open source, with 
+    one simple condition: the owner of this repository is not to be held responsible for any
+    damage caused by potential bugs within, or misuse of the code within this repository. 
 This git repository was created with the intention of exhibiting my work and to allow
     others to use it who may be interested.
     As some of this code was created for school assignments which may be reused by professors,
     it is not recommended that this code be copied or used by students for such assignments.
     This code is NOT published with the intent of allowing future students to copy.
+
+If you like the look of the code within my repository, and are a recruitor for a company, please 
+	take a look at the For-Recruitors folder in the repository. 
+
+If you need to contact the developer of this code, email samteague2016@gmail.com
